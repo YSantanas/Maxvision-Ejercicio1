@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">maxvision</string>
+
+    <string name="text_btn_Registro">Register</string>
+    <string name="text_btn_Prueba">Catalogue</string>
+    <string name="text_btn_Enviar">Send</string>
+    <string name="text_autor">Yvette Santana Sánchez</string>
+    <string name="text_version">Version: 1</string>
+
+
+    <string name="registro_nombre">Name</string>
+    <string name="registro_apellidos">Last name</string>
+    <string name="registro_correo">Email</string>
+    <string name="registro_numCuenta">Account number</string>
+    <string name="registro_Carrera">Career</string>
+    <string name="registro_Fecha">Date of birth</string>
+    <string name="registro_Dia">Day</string>
+    <string name="registro_Mes">Month</string>
+    <string name="registro_Annio">Year</string>
+    <string name="Perfil_Edad">Age</string>
+    <string name="Perfil_Horoscopo">Horoscope</string>
+    <string name="Perfil_HoroscopoC">Chinese horoscope</string>
+    <string name="Perfil_Elemento">Element</string>
+
+    <string name="language">Change to spanish</string>
+    <string name="greetin">¡ Maxvision allows you to change language!</string>
+
+    <!-- Titulos -->
+    <string name="inicio_Perfil">Profile</string>
+    <string name="inicio_Registro">Register</string>
+    <string name="inicio_Bienvenido">Welcome</string>
+    <string name="inicio_Catalogo">Catalogue</string>
+
+    <!-- notificación de errores -->
+    <string name="error_nombre">Invalid name</string>
+    <string name="error_apellido">Invalid last name</string>
+    <string name="error_correo">invalid mail</string>
+    <string name="error_num">invalid mail</string>
+
+    <!-- seccion de herramientas -->
+    <string name="herramientas_numerologia">Numerology</string>
+    <string name="herramientas_descripcionnum">Description: The date of birth contains information about our character and the way of life we have chosen.</string>
+    <string name="herramienta_color">Lucky color</string>
+    <string name="herramientas_descripcioncolor">Description: The color of your birth has a certain impact on you.</string>
+    <string name="herramienta_oscuro">Dark zodiac</string>
+    <string name="herramientas_descripcionoscuro">Description: The black zodiac indica represents the evil side of each of the signs.</string>
+
+    <string name="herramienta_horoscopo">Horoscope</string>
+    <string name="herramientas_descripcionh">Description: There are 12 traditional western zodiac signs they are Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius and Pisces.</string>
+    <string name="herramienta_horoscopochino">Chinese horoscope</string>
+    <string name="herramientas_descripcionchino">Description: The Chinese horoscope is a repetitive cycle of 12 years where each year is represented by an animal and an element.</string>
+
+</resources>
